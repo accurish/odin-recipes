@@ -1,2 +1,2 @@
 # odin-recipes
-A basic recipe site allowing to to practice git and frontend dev
+This is an imitation of a generic recipe site, which will kickstart my developer journey. By the end of the project, I should have a basic understanding of git, HTML, and CSS, along with an understanding of how to structure the files of a website.
